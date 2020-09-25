@@ -4,12 +4,16 @@
 This is a google research fork
 My focus is in the folder 
 1. uncertainties/
+
 Uncertainties for classification in Deep Neural Networks
+
 Warning : work in progress
+
 2. uq_benchmark_2019/
 
 Can You Trust Your Model's Uncertainty?
 Evaluating Predictive Uncertainty Under Dataset Shift
+
 ---
 
 This repository contains code released by
